@@ -1,6 +1,6 @@
 ---
 Title: Document Status
-Tags: 
+Tags:
 Category: Development
 Subtitle:
 Summary: Current status of existing documentation
@@ -9,6 +9,7 @@ Authors: Jack De Winter
 Status: draft
 ---
 
+<!-- yaspeller ignore:start -->
 | Category/Directory    |File Name | Status | Title | Notes |
 | --- | --- | --- | --- |- |
 |Analytics              |google-analytics.md         | -                                                                            | **Proposed** How To Setup Google Analytics for Website Analytics  | - |
@@ -70,3 +71,5 @@ Status: draft
 | Unknown               |                            | Jack, Pri-1, [363](https://github.com/Pelican-Elegant/elegant/issues/363) | - |- |
 | Unknown               |                            | Ongoing discussion, [314](https://github.com/Pelican-Elegant/elegant/issues/314) |- |
 | Unknown               |                            | Not Assigned, [311](https://github.com/Pelican-Elegant/elegant/issues/311) |- |
+
+<!-- yaspeller ignore:end -->
